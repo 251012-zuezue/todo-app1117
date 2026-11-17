@@ -17,6 +17,7 @@ export default function Header() {
   return (
     <header className="header">
       <span className="app-name">{appName}</span>
+      
      
 
       <nav>
